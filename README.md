@@ -1,1 +1,2 @@
-# 23-BOUNCE-GAME
+# C20_boilerplate
+boilerplate for teacher activity
